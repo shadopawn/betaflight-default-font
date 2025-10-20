@@ -2,6 +2,8 @@
 
 Tool used to create this font: [YAL's Pixel Font Converter!](https://yal.cc/tools/pixel-font/)
 
+![](./betaflight-default.png)
+
 ## Settings
 
 ```
