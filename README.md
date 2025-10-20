@@ -7,7 +7,7 @@ Tool used to create this font: [YAL's Pixel Font Converter!](https://yal.cc/tool
 ## Settings
 
 ```
- #@&^"'()[]*÷+.∎
+ #@&^"'()[]*%+.∎
 ,_-\/:;=<>?!0123
 456789ABCDEFGHIJ
 KLMNOPQRSTUVWXYZ
